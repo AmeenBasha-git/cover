@@ -1,0 +1,65 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+#image{
+    position: absolute;
+    background-image: url(bg\ imag.png);
+    background-size: cover;
+    top:30px;
+    height: 650px;
+    width: 500px;
+    /* border: 5px solid pink; */
+}
+#center
+{
+    margin-left:500px;
+}
+#head
+{
+    position:absolute;
+    top: 50px;
+    left:520px;
+    color: red;
+}
+
+#title
+{
+    position:absolute;
+    top: 150px;
+    left:590px;
+    font-size: 30px;
+    color: red;
+}
+#subtitle
+{
+    position:absolute;
+    top: 250px;
+    left:590px;
+    font-size: 20px;
+    color: cyan;
+    
+}
+#edition
+{
+    position:absolute;
+    bottom: 80px;
+    left:520px;
+    font-size: 20px;
+    color: whitesmoke;
+}
+#name
+{
+    position:absolute;
+    bottom: 70px;
+    left:840px;
+    font-size: 20px;
+    color: cyan;
+}
+#ameen{
+    position:fixed;
+    height: 180px;
+    bottom: 100px;
+    border-radius: 50px;
+    left:840px;
+}
